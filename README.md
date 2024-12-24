@@ -1,0 +1,2 @@
+# Netflix-Data-Cleaning-and-Analysis-Project-End-to-End-Data-Engineering-Project-SQL-Python-
+This project showcases an end-to-end ELT (Extract, Load, Transform) pipeline using the Netflix dataset. The process involves extracting data, loading it into a database, and transforming it using SQL and Python. Tasks include data cleaning, trend analysis, and generating insights into content and audience preferences.
